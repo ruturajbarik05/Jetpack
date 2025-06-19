@@ -1,7 +1,7 @@
 package assignment_june_13
 
 fun main() {
-    validateInput("Ashu")
+    validateInput("Ruturaj")
     validateInput(" ")
 }
 

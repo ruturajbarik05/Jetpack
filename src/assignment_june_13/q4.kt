@@ -1,7 +1,7 @@
 package assignment_june_13
 
 fun main() {
-    val names = listOf("Ashu", "Priyanka", "Rajat", "Michael", "Sam")
+    val names = listOf("Ruturaj", "Danish", "Anu", "Yash", "Asish")
     var count = 0
     for (name in names) {
         if (name.length > 5) {
